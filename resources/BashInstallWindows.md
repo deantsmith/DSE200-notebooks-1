@@ -20,7 +20,7 @@
     * Type the following line into the command prompt window exactly as shown:
       setx HOME "%USERPROFILE%"
     * Press [Enter], you should see SUCCESS: Specified value was saved.
-    ![command prompt](img/cmd_prompt.png)
+    ![command prompt](images/cmd_prompt.png)
     * Quit command prompt by typing exit then pressing [Enter]
     
 This will provide you with both Git and Bash in the Git Bash program.
